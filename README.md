@@ -12,21 +12,11 @@ Bu proje Murat Yücedağ egitmenliginde udemy'de paylaştıgı Rapid Api - Api C
 ***
 
 ### Projeye Ait Görseller
-![](https://i.hizliresim.com/bgbq2vt.jpg)
+![1](https://github.com/user-attachments/assets/c03e0419-0cd3-4adc-8b6b-7020cf76d6d3)
+![2](https://github.com/user-attachments/assets/2e9f980c-48e9-4e49-a1b5-b3e96a5cf9c7)
+![3](https://github.com/user-attachments/assets/47d7dfdb-941e-413d-94be-e238077ab09b)
+![4](https://github.com/user-attachments/assets/d7caf1ab-f520-4dd0-b1d3-3da536c335d2)
+![5](https://github.com/user-attachments/assets/5558f1a1-7ae1-4f6f-a436-e72b560371cc)
+![6](https://github.com/user-attachments/assets/85dcb92b-c9c8-4186-82fd-adbafb091cca)
+![7](https://github.com/user-attachments/assets/a784f9c7-eec1-47fb-8e8c-2616b46bcf67)
 
-![](https://i.hizliresim.com/fgl5cp9.jpg)
-
-![](https://i.hizliresim.com/ls40bvo.jpg)
-
-![](https://i.hizliresim.com/8psvf4p.jpg)
-
-![](https://i.hizliresim.com/9je5r97.jpg)
-
-![](https://i.hizliresim.com/qgxeopi.jpg)
-
-![](https://i.hizliresim.com/8mhlf0y.jpg)
-
-Depoya klonla
-$ git klonu [https://github.com/mrvakbas/MyUdemyProject](https://github.com/mrvakbas/MyUdemyProject)
-
-2024 © Merve AKBAŞ
